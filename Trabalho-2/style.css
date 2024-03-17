@@ -1,0 +1,192 @@
+.header1 {
+    background-color: rgb(212, 209, 209);
+    font-size: 90%;
+    font-family: Arial;
+    width: 100%;
+    height: 12%;
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.linhaAmarela {
+    width: 50px;
+    height: 25px;
+    -webkit-transform: skew(45deg);
+    -moz-transform: skew(45deg);
+    -ms-transform: skew(45deg);
+    -o-transform: skew(45deg);
+    transform: skew(-45deg);
+    background-color: #f8ea9b;
+}
+
+.linhaAmarela2 {
+    width: 50px;
+    height: 25px;
+    -webkit-transform: skew(45deg);
+    -moz-transform: skew(45deg);
+    -ms-transform: skew(45deg);
+    -o-transform: skew(45deg);
+    transform: skew(-45deg);
+    background-color: #f5d96f;
+}
+
+.amarelo {
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: #f5d96f;
+}
+
+.save {
+    width: 65px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+}
+
+.imgsize {
+    width: 15px;
+    height: auto;
+}
+
+.divisoria {
+    width: 2px;
+    height: 20px;
+    background-color: rgb(185, 183, 183);
+    margin-top: 7px;
+    margin-left: 5px;
+    margin-right: 2px;
+}
+
+.divbotoes {
+    display: flex;
+}
+
+.cancel {
+    width: 75px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+}
+
+.edit {
+    width: 60px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+    opacity: 45%
+}
+.savedraft {
+    width: 100px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+    opacity: 45%
+}
+.loaddraft{
+    width: 80px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+    opacity: 45%
+}
+.refresh{
+    width: 30px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+    opacity: 45%
+}
+.undo{
+    width: 65px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+    opacity: 45%
+}
+.redo{
+    width: 65px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+    opacity: 45%
+}
+.check{
+    width: 55px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+}
+.estranho1{
+    width: 30px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+}
+.imgsize2 {
+    width: 25px;
+    height: 20px;
+    margin-left: -5px;
+}
+.estranho2{
+    width: 30px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(59, 184, 146);
+}
+.estranho3{
+    width: 30px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(59, 184, 146);
+}
+.addictionalfunctions{
+    width: 145px;
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+    border-color: rgb(187, 182, 182);
+}
