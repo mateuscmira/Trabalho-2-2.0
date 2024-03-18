@@ -195,20 +195,41 @@ body {
 
 
 .box{
-    width: 930px;
-    height: 300px;
+    width: 1300px;
+    height: 400px;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
 }
 
 .box1{
-    width: 400px;
-    height: 300px;
+    width: 580px;
+    height: 380px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
 
 }
+.robotextocontainer{
+    display: flex;
+    height: 380px;
+}
+
+.imgrobo{
+    margin-top: 2%;
+}
+
+.a1{
+    color: blue;
+    margin-top: 8%;
+    height: 380px;
+    font-size: 140%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     max-width:200px ;
+    
+}
+
+
+
 
 .container{
     display: inline-flex;
@@ -226,7 +247,7 @@ body {
     position: absolute;
     background-color: blue;
     border-radius: 20px;
-    left: 40%;
+    left: 44%;
     top: 10%;
 }
 .leA{
@@ -235,7 +256,7 @@ body {
     position: absolute;
     background-color: blue;
     border-radius: 20px;
-    left: 40%;
+    left: 44%;
     top: 16%;
 }
 
@@ -245,7 +266,7 @@ body {
     position: absolute;
     background-color: blue;
     border-radius: 20px;
-    left: 40%;
+    left: 44%;
     top: 22%;
 }
 
@@ -255,7 +276,7 @@ body {
     position: absolute;
     background-color: blue;
     border-radius: 20px;
-    left: 40%;
+    left: 44%;
     top: 28%;
 }
 
@@ -265,50 +286,63 @@ body {
     position: absolute;
     background-color: blue;
     border-radius: 20px;
-    left: 40%;
+    left: 44%;
     top: 34%;
 }
 
 .t1{
-    font-size: 100%;
+    font-size: 80%;
     color: white;
     left: 20%;
     position: absolute;
     text-align: center;
+    margin-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .t2{
-    font-size: 100%;
+    font-size: 80%;
     color: white;
     left: 20%;
     position: absolute;
-    text-align: center;;
+    text-align: center;
+    margin-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
 .t3{
-    font-size: 100%;
+    font-size: 80%;
     color: white;
-    left: 20%;
+    left: 10%;
     position: absolute;
     text-align: center;
+    margin-top: 10px;
+    max-width:300px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
 .t4{
-    font-size: 100%;
+    font-size: 80%;
     color: white;
-    left: 20%;
+    left: 10%;
     position: absolute;
     text-align: center;
+    margin-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 
 .t5{
-    font-size: 100%;
+    font-size: 80%;
     color: white;
-    left: 20%;
+    left: 15%;
     position: absolute;
     text-align: center;
+    margin-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 
 .le1{
@@ -322,13 +356,13 @@ body {
 .boc{
     border-radius: 10px;
     background-color:rgb(205, 238, 238); 
-    width: 930px;
-    height: 300px;
+    width: 1300px;
+    height: 380px;
 }
 
 .box2{
-    width: 400px;
-    height: 300px;
+    width: 580px;
+    height: 380px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
@@ -337,8 +371,8 @@ body {
 }
 
 .boc1{
-    width: 400px;
-    height: 300px;
+    width: 580px;
+    height: 380px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
@@ -348,13 +382,13 @@ body {
 .bov{
     border-radius: 10px;
     background-color:rgb(205, 238, 238); 
-    width: 930px;
-    height: 300px;
+    width: 1300px;
+    height: 380px;
 }
 
 .bov1{
-    width: 400px;
-    height: 300px;
+    width: 580px;
+    height: 380px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
@@ -385,3 +419,4 @@ body {
     left: 10px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
