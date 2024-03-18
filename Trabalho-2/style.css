@@ -90,6 +90,7 @@ body {
     border-color: rgb(187, 182, 182);
     opacity: 45%
 }
+
 .savedraft {
     width: 100px;
     height: 25px;
@@ -100,7 +101,8 @@ body {
     border-color: rgb(187, 182, 182);
     opacity: 45%
 }
-.loaddraft{
+
+.loaddraft {
     width: 80px;
     height: 25px;
     display: flex;
@@ -110,7 +112,8 @@ body {
     border-color: rgb(187, 182, 182);
     opacity: 45%
 }
-.refresh{
+
+.refresh {
     width: 30px;
     height: 25px;
     display: flex;
@@ -120,7 +123,8 @@ body {
     border-color: rgb(187, 182, 182);
     opacity: 45%
 }
-.undo{
+
+.undo {
     width: 65px;
     height: 25px;
     display: flex;
@@ -130,7 +134,8 @@ body {
     border-color: rgb(187, 182, 182);
     opacity: 45%
 }
-.redo{
+
+.redo {
     width: 65px;
     height: 25px;
     display: flex;
@@ -140,7 +145,8 @@ body {
     border-color: rgb(187, 182, 182);
     opacity: 45%
 }
-.check{
+
+.check {
     width: 55px;
     height: 25px;
     display: flex;
@@ -149,7 +155,8 @@ body {
     background-color: transparent;
     border-color: rgb(187, 182, 182);
 }
-.estranho1{
+
+.estranho1 {
     width: 30px;
     height: 25px;
     display: flex;
@@ -158,12 +165,14 @@ body {
     background-color: transparent;
     border-color: rgb(187, 182, 182);
 }
+
 .imgsize2 {
     width: 25px;
     height: 20px;
     margin-left: -5px;
 }
-.estranho2{
+
+.estranho2 {
     width: 30px;
     height: 25px;
     display: flex;
@@ -172,7 +181,8 @@ body {
     background-color: transparent;
     border-color: rgb(59, 184, 146);
 }
-.estranho3{
+
+.estranho3 {
     width: 30px;
     height: 25px;
     display: flex;
@@ -181,7 +191,8 @@ body {
     background-color: transparent;
     border-color: rgb(59, 184, 146);
 }
-.addictionalfunctions{
+
+.addictionalfunctions {
     width: 145px;
     height: 25px;
     display: flex;
@@ -195,19 +206,18 @@ body {
 
 
 .box{
-    width: 1300px;
-    height: 400px;
+    width: 930px;
+    height: 300px;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
 }
 
 .box1{
-    width: 580px;
-    height: 380px;
+    width: 400px;
+    height: 300px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
-
 }
 .robotextocontainer{
     display: flex;
@@ -231,17 +241,21 @@ body {
 
 
 
-.container{
-    display: inline-flex;
-}
-.containerA{
-    display: inline-flex;
-}
-.containerB{
+
+
+.container {
     display: inline-flex;
 }
 
-.le{
+.containerA {
+    display: inline-flex;
+}
+
+.containerB {
+    display: inline-flex;
+}
+
+.le {
     height: 30px;
     width: 300px;
     position: absolute;
@@ -250,7 +264,8 @@ body {
     left: 44%;
     top: 10%;
 }
-.leA{
+
+.leA {
     height: 30px;
     width: 300px;
     position: absolute;
@@ -260,7 +275,7 @@ body {
     top: 16%;
 }
 
-.leB{
+.leB {
     height: 30px;
     width: 300px;
     position: absolute;
@@ -270,7 +285,7 @@ body {
     top: 22%;
 }
 
-.leC{
+.leC {
     height: 30px;
     width: 300px;
     position: absolute;
@@ -280,7 +295,7 @@ body {
     top: 28%;
 }
 
-.leE{
+.leE {
     height: 30px;
     width: 300px;
     position: absolute;
@@ -291,7 +306,7 @@ body {
 }
 
 .t1{
-    font-size: 80%;
+    font-size: 100%;
     color: white;
     left: 20%;
     position: absolute;
@@ -301,30 +316,25 @@ body {
 }
 
 .t2{
-    font-size: 80%;
+    font-size: 100%;
     color: white;
     left: 20%;
     position: absolute;
-    text-align: center;
-    margin-top: 10px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;;
     
 }
 
 .t3{
-    font-size: 80%;
+    font-size: 100%;
     color: white;
     left: 10%;
     position: absolute;
     text-align: center;
-    margin-top: 10px;
-    max-width:300px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
 .t4{
-    font-size: 80%;
+    font-size: 100%;
     color: white;
     left: 10%;
     position: absolute;
@@ -335,7 +345,7 @@ body {
 }
 
 .t5{
-    font-size: 80%;
+    font-size: 100%;
     color: white;
     left: 15%;
     position: absolute;
@@ -345,7 +355,7 @@ body {
 
 }
 
-.le1{
+.le1 {
     max-width: 100px;
     height: 100px;
     border-radius: 40%;
@@ -353,16 +363,16 @@ body {
     left: 70%;
 }
 
-.boc{
+.boc {
     border-radius: 10px;
     background-color:rgb(205, 238, 238); 
-    width: 1300px;
-    height: 380px;
+    width: 930px;
+    height: 300px;
 }
 
 .box2{
-    width: 580px;
-    height: 380px;
+    width: 400px;
+    height: 300px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
@@ -371,50 +381,50 @@ body {
 }
 
 .boc1{
-    width: 580px;
-    height: 380px;
+    width: 400px;
+    height: 300px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
 
 }
 
-.bov{
+.bov {
     border-radius: 10px;
     background-color:rgb(205, 238, 238); 
-    width: 1300px;
-    height: 380px;
+    width: 930px;
+    height: 300px;
 }
 
 .bov1{
-    width: 580px;
-    height: 380px;
+    width: 400px;
+    height: 300px;
     margin-left: 2%;
     background-color: rgb(205, 238, 238);
     border-radius: 10px;
 
 }
 
-.t6{
+.t6 {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(27, 27, 247);
 }
 
 
-.t7{
+.t7 {
     color: rgb(27, 27, 247);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
 
-.t20{
+.t20 {
     color: rgb(27, 27, 247);
     left: 10px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-    
-.t21{
+
+.t21 {
     color: rgb(27, 27, 247);
     left: 10px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
