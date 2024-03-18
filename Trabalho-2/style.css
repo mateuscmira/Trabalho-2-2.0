@@ -190,3 +190,24 @@ body {
     background-color: transparent;
     border-color: rgb(187, 182, 182);
 }
+.tabela1{
+    display: flex;
+    width: 20%;
+    height: 100%;
+    background-color: white;
+}
+.navigation{
+    font-family: Arial;
+    margin-left: 30px;
+}
+.repositories{
+    font-family: Arial;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.logoarquivo{
+    width: 20px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
